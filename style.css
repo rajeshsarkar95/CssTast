@@ -1,0 +1,71 @@
+.conteiner{
+   box-shadow: 10px 10px 5px #aaaaaa;
+}
+.item{
+    display: flex;
+}
+.list_item{
+    display: flex;
+    margin-left: 72%;
+    list-style-type: none;
+    gap: 12px;
+    align-items: center;
+}
+.singup{
+   border-radius: 12px;
+   padding: 6px 6px;
+   color: white;
+   background-color: black;
+}
+img{ 
+   width: 90%;  
+   height: 90%;
+}
+.pra_div{
+  width: 100%;
+  justify-content: center;
+}
+.images_pragraf{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    line-height: 26px;
+}
+.pallalIamge{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.Excepteur-pra{
+    width: 50%;
+    margin-top: 6%;
+    line-height: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Realted_post{
+    display: flex;
+    justify-content: center;
+}
+.table_div{
+margin-top: 8%;
+border: 1px solid black;
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+    margin-left: 18%;
+   
+}
+th, td {
+    padding: 12px;
+    text-align: right;
+}
+
+  
+ 
+
+
+
